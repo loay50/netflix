@@ -1,3 +1,8 @@
+VIEW LIVE! : https://netflix-b435d.web.app/
+
+make sure to create react app to install the node modules and more packeges, check the imports or app.js and install these packeges
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
